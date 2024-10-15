@@ -4,6 +4,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 First, run the development server:
 
+- **src/**: Contains the source code for your Next.js application.
+- **collection/**: Contains your collection documents of mongodb
+
 ```bash
 npm run dev
 # or

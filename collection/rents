@@ -1,0 +1,1 @@
+{"_id":{"$oid":"670ee2364bdf2ee4539e4427"},"userId":{"$oid":"670ee1ce4bdf2ee4539e440e"},"bookId":{"$oid":"670e5d7b8adf265ce2ffba9a"},"startRent":{"$date":"2024-10-15T21:43:51.311Z"},"endRent":{"$date":"2024-10-16T17:00:00Z"},"status":3,"createdAt":{"$date":"2024-10-15T21:44:22.567Z"},"updatedAt":{"$date":"2024-10-15T21:54:13.057Z"},"__v":0}
